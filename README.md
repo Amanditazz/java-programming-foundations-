@@ -46,3 +46,5 @@ O objetivo é documentar minha evolução acadêmica e reunir os conhecimentos a
 ## Objetivo do repositório
 
 Reunir os exercícios desenvolvidos ao longo do primeiro período, registrando minha evolução nos fundamentos da programação e servindo como referência para estudos futuros.
+
+OBS: As atividades de encontram separadas por tópicos dentro da pasta src
