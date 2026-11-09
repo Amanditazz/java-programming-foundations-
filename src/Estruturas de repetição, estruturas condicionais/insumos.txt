@@ -1,0 +1,12 @@
+tijolo
+5
+0,20
+engenheiro
+2
+500
+lata de tinta
+10
+3,50
+caixa de prego
+7
+1

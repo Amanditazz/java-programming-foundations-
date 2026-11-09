@@ -1,0 +1,12 @@
+tijolo
+0.20
+5.0
+engenheiro
+500.0
+2.0
+lataTinta
+3.50
+10.0
+caixaPrego
+1.0
+7.0

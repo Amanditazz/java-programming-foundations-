@@ -1,0 +1,80 @@
+
+// ========================================
+// CLASSE STRING - MÉTODOS PRINCIPAIS
+// ========================================
+
+// (int)CARACTER
+// Retorna o código ASCII referente a um caractere
+
+// (char)NUMERO
+// Retorna o caractere referente ao código ASCII de um número
+
+// Integer.parseInt(STR)
+// Float.parseFloat(STR)
+// Double.parseDouble(STR)
+// Converte a string STR para um valor numérico
+
+// String.valueOf(NUMERO)
+// Converte um número para string
+
+// STR.length()
+// Retorna o tamanho da string (incluindo espaços)
+
+// STR.substring(pi, pf)
+// Retorna parte da string de pi até pf-1
+// Se pf não for informado, vai até o final
+// O primeiro caractere fica no índice 0
+
+// STR.toUpperCase()
+// Converte todos os caracteres para maiúsculo
+
+// STR.toLowerCase()
+// Converte todos os caracteres para minúsculo
+
+// STR1.indexOf(STR2)
+// Retorna a posição de STR2 dentro de STR1
+// Se não encontrar, retorna -1
+
+// STR.charAt(pos)
+// Retorna o caractere na posição pos
+
+// STR.split(CARACTER)
+// Divide a string em partes usando um separador
+// Retorna um vetor de substrings
+
+// STR.replace(STR1, STR2)
+// Troca uma ocorrência de STR1 por STR2
+
+// STR.replaceAll(STR1, STR2)
+// Troca TODAS as ocorrências de STR1 por STR2
+
+// STR.trim()
+// Remove espaços no início e no fim da string
+
+
+// ========================================
+// COMPARAÇÃO DE STRINGS
+// ========================================
+
+// STR1.equals(STR2)
+// Retorna true se forem iguais
+// Retorna false se forem diferentes
+
+// STR1.equalsIgnoreCase(STR2)
+// Igual ao equals, mas ignora maiúsculas/minúsculas
+
+// STR1.compareTo(STR2)
+// Retorna 0 se forem iguais
+// Retorna > 0 se STR1 for maior
+// Retorna < 0 se STR1 for menor
+
+// STR1.compareToIgnoreCase(STR2)
+// Igual ao compareTo, mas ignora maiúsculas/minúsculas
+
+
+// ========================================
+// OBSERVAÇÃO
+// ========================================
+
+// A comparação é feita caractere por caractere,
+// da esquerda para a direita
